@@ -1,0 +1,17 @@
+/****** SCROLL ANIMATIONS *****/
+
+/* REDEFINE */
+#first, #second, #third{
+  position: relative;
+  opacity: 0;
+  bottom: -100px !important;
+  transition: all 1s;
+}
+
+
+/* DIGITAL CUSTOMER */
+#fourth{
+  opacity: 0;
+  transform: scale3d(0,0,0);
+  transition: all .5s;
+}
