@@ -151,7 +151,7 @@ footer ul{
 footer ul li{
   margin-bottom: 9px
 }
-footer ul>li>a{
+footer ul>li>a,#mail{
   color: white;
   text-decoration: none;
   transition: all .3s
